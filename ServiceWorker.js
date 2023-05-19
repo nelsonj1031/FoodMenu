@@ -1,9 +1,9 @@
 const cacheName = "Urbanus.IO-AR-1.0";
 const contentToCache = [
-    "Build/webxr2.loader.js",
-    "Build/webxr2.framework.js",
-    "Build/webxr2.data",
-    "Build/webxr2.wasm",
+    "Build/webxr.loader.js",
+    "Build/webxr.framework.js",
+    "Build/webxr.data",
+    "Build/webxr.wasm",
     "TemplateData/style.css"
 
 ];
